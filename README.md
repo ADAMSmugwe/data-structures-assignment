@@ -1,11 +1,11 @@
-# Data Structures Assignment 1
+# Data Structures Project 2
 **Course:** Computer Science - First Year  
 **Topic:** Data Structures Classification (C Programming)  
-**Date:** February 2026
+
 
 ---
 
-## 📋 Assignment Overview
+
 
 This assignment demonstrates the fundamental data structures in C programming language:
 
@@ -229,8 +229,8 @@ This assignment demonstrates fundamental understanding of:
 4. Trade-offs between different structures
 5. Practical applications in real systems
 
-**All code tested and verified working!** ✅
+
 
 ---
 
-**Good luck with your studies!** 🎓
+
